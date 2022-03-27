@@ -1,0 +1,4 @@
+../Core/Src/main.c:32:5:main	32	static
+../Core/Src/main.c:137:6:resetLEDs	32	static
+../Core/Src/main.c:150:6:SystemClock_Config	80	static
+../Core/Src/main.c:188:6:Error_Handler	8	static,ignoring_inline_asm
